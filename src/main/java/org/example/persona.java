@@ -7,9 +7,11 @@ public class persona {
     private String edad;
     private String genero;
 
+    //constructor basio
     public persona() {
     }
 
+    //metodos
     public persona(String nombre, String edad, String genero) {
         this.nombre = nombre;
         this.edad = edad;
